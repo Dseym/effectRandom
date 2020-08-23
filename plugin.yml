@@ -1,0 +1,6 @@
+name: EffectRandom
+version: 1.0
+main: effectRandom.Main
+commands:
+  start:
+    usage: /start
